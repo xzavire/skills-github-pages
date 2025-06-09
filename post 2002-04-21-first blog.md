@@ -1,4 +1,4 @@
 ---
-title: my first blog
-date: 2002-04-21
+title: dante
+date: 2024-09-24
 ---
