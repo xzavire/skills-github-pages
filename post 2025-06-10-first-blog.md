@@ -1,6 +1,6 @@
 ---
 title: first-blog.md
-date: 2024-09-24
+date: 2025-06-10
 ---
 Mobile Responsiveness:
 This layout is mobile-responsive by default, thanks to the width constraints and padding. It will look clean and organized on both desktop and mobile devices.
