@@ -1,5 +1,5 @@
 ---
-title: first-blog.md
+title: first-blog
 date: 2025-06-10
 ---
 Mobile Responsiveness:
